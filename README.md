@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mrp-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://gentle-peony-f99a64.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:maksudurrahmanprio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -24,7 +24,7 @@ const prio = {
   focus: ["MERN Stack", "Real-Time Systems", "Scalable Architecture"],
   currentlyBuilding: "Production-grade web applications",
   availability: "Open to full-time & freelance opportunities",
-  funFact: "I debug with console.log and I'm not ashamed 😄"
+  funFact: “Still a proud member of the console.log debugging club 😄”
 };
 ```
 
@@ -72,7 +72,7 @@ Developed an end-to-end blogging platform with rich text editor, personalized fe
 - 📡 Built scalable REST API with Express and MongoDB
 
 **Tech Stack:**  
-`React` `Redux` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Cloudinary`
+`React` `Redux` `Node.js` `Express` `MongoDB` `Tailwind CSS` 
 
 🔗 **[Live Demo](https://blog-wave-3c534.web.app/)** | 💻 **[Frontend](https://github.com/prio12/BlogWave)** • **[Backend](https://github.com/prio12/blog_wave_server)**
 
@@ -102,7 +102,7 @@ Developed an end-to-end blogging platform with rich text editor, personalized fe
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-**Deployment:** Vercel (Frontend) • Render (Backend)
+**Deployment:** Vercel / Netlify / (Frontend) • Render (Backend)
 
 ---
 
@@ -135,7 +135,7 @@ Developed an end-to-end blogging platform with rich text editor, personalized fe
 
 💼 **Currently available for:** Full-time positions & freelance projects  
 📧 **Email:** [maksudurrahmanprio@gmail.com](mailto:maksudurrahmanprio@gmail.com)  
-🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
+🌐 **Portfolio:** [your-portfolio-link.com](https://gentle-peony-f99a64.netlify.app/)  
 💼 **LinkedIn:** [linkedin.com/in/mrp-dev](https://www.linkedin.com/in/mrp-dev/)
 
 ---

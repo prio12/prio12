@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mrp-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://gentle-peony-f99a64.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://mrp-dev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:maksudurrahmanprio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -136,9 +136,12 @@ Developed an end-to-end blogging platform with rich text editor, personalized fe
 
 ## 📫 Let's Connect
 
-💼 **Currently available for:** Full-time positions & freelance projects  
-📧 **Email:** [maksudurrahmanprio@gmail.com](mailto:maksudurrahmanprio@gmail.com)  
-🌐 **Portfolio:** [https://gentle-peony-f99a64.netlify.app/](https://gentle-peony-f99a64.netlify.app/)
+💼 **Currently available for:** Full-time positions & freelance projects
+
+📧 **Email:** [maksudurrahmanprio@gmail.com](mailto:maksudurrahmanprio@gmail.com)
+
+🌐 **Portfolio:** [https://mrp-dev.netlify.app/](https://mrp-dev.netlify.app/)
+
 💼 **LinkedIn:** [linkedin.com/in/mrp-dev](https://www.linkedin.com/in/mrp-dev/)
 
 ---

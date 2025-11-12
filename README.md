@@ -99,10 +99,13 @@ Developed an end-to-end blogging platform with rich text editor, personalized fe
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Deployment & Cloud Services
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-**Deployment:** Vercel / Netlify / (Frontend) • Render (Backend)
 
 ---
 
@@ -135,7 +138,7 @@ Developed an end-to-end blogging platform with rich text editor, personalized fe
 
 💼 **Currently available for:** Full-time positions & freelance projects  
 📧 **Email:** [maksudurrahmanprio@gmail.com](mailto:maksudurrahmanprio@gmail.com)  
-🌐 **Portfolio:** [https://gentle-peony-f99a64.netlify.app/]
+🌐 **Portfolio:** [https://gentle-peony-f99a64.netlify.app/](https://gentle-peony-f99a64.netlify.app/)
 💼 **LinkedIn:** [linkedin.com/in/mrp-dev](https://www.linkedin.com/in/mrp-dev/)
 
 ---

@@ -135,7 +135,7 @@ Developed an end-to-end blogging platform with rich text editor, personalized fe
 
 💼 **Currently available for:** Full-time positions & freelance projects  
 📧 **Email:** [maksudurrahmanprio@gmail.com](mailto:maksudurrahmanprio@gmail.com)  
-🌐 **Portfolio:** [your-portfolio-link.com](https://gentle-peony-f99a64.netlify.app/)  
+🌐 **Portfolio:** [https://gentle-peony-f99a64.netlify.app/]
 💼 **LinkedIn:** [linkedin.com/in/mrp-dev](https://www.linkedin.com/in/mrp-dev/)
 
 ---

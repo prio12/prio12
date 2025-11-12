@@ -1,66 +1,149 @@
-# Hi there, I'm Maksudur Rahman Prio 👋
+<div align="center">
 
-![Header](header-animation.gif)
-🌍 A MERN Explorer from Bangladesh.
+# 👋 Hey, I'm Maksudur Rahman Prio
 
-## Skills 🚀
+### Full-Stack Developer | MERN Stack Specialist | Real-Time Systems Engineer
 
+<p>
+  <a href="https://www.linkedin.com/in/mrp-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:maksudurrahmanprio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+**🌍 Based in Bangladesh • 💼 Open to Remote Opportunities Worldwide**
+
+</div>
+
+---
+
+## 🚀 About Me
+```javascript
+const prio = {
+  location: "Bangladesh 🇧🇩",
+  role: "Full-Stack Developer",
+  focus: ["MERN Stack", "Real-Time Systems", "Scalable Architecture"],
+  currentlyBuilding: "Production-grade web applications",
+  availability: "Open to full-time & freelance opportunities",
+  funFact: "I debug with console.log and I'm not ashamed 😄"
+};
+```
+
+I specialize in building **scalable, real-time web applications** from scratch. My strength lies in taking projects from concept to deployment—handling everything from database design to responsive UIs. I'm passionate about writing clean, maintainable code and solving complex technical challenges.
+
+---
+
+## 💼 Featured Projects
+
+### 🔥 [Chatterly](https://github.com/prio12/Chatterly_Client) - Real-Time Messaging Platform
+> **Solo Full-Stack Project** | Real-time chat application with WebSocket architecture
+
+**The Challenge:**  
+Most messaging platforms suffer from latency and poor real-time feedback, hurting user engagement.
+
+**My Solution:**  
+Built a production-ready chat system with Socket.io, implementing typing indicators, online presence, and instant notifications with sub-second message delivery.
+
+**Key Technical Achievements:**
+- ⚡ Mastered WebSocket architecture (handshake protocols, bidirectional communication)
+- 📦 Implemented scalable server-side code with modular design patterns
+- 🎥 Integrated Cloudinary with optimized video/image compression pipeline
+- 🐛 Debugged complex real-time synchronization across concurrent connections
+
+**Tech Stack:**  
+`React` `Redux Toolkit` `Node.js` `Express` `Socket.io` `MongoDB` `Cloudinary` `JWT`
+
+🔗 **[Live Demo](https://chatterly-ddcd5.web.app/)** | 💻 **[Frontend](https://github.com/prio12/Chatterly_Client)** • **[Backend](https://github.com/prio12/chatterly_server)**
+
+---
+
+### 📝 [BlogWave](https://github.com/prio12/BlogWave) - Full-Stack Blogging Platform
+> **Solo Full-Stack Project** | Content management system with rich text editing
+
+**The Challenge:**  
+Writers lack a distraction-free platform with community-focused engagement.
+
+**My Solution:**  
+Developed an end-to-end blogging platform with rich text editor, personalized feeds, follow system, and smooth CRUD operations—all with Redux state management.
+
+**Key Technical Achievements:**
+- ✍️ Integrated rich text editor with custom formatting controls
+- 🔄 Implemented Redux Toolkit for centralized state management
+- 🎨 Designed professional UI/UX focused on readability
+- 📡 Built scalable REST API with Express and MongoDB
+
+**Tech Stack:**  
+`React` `Redux` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Cloudinary`
+
+🔗 **[Live Demo](https://blog-wave-3c534.web.app/)** | 💻 **[Frontend](https://github.com/prio12/BlogWave)** • **[Backend](https://github.com/prio12/blog_wave_server)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Daisy UI](https://img.shields.io/badge/Daisy_UI-FF4088?style=for-the-badge&logo=vue.js&logoColor=white)
-![Mamba UI](https://img.shields.io/badge/Mamba_UI-3366FF?style=for-the-badge&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-# Projects
+**Deployment:** Vercel (Frontend) • Render (Backend)
 
-## BlogWave - (Medium Inspired)
-[Live Link](https://blog-wave-3c534.web.app/) | [Client Side](https://github.com/prio12/BlogWave) | [Server Side](https://github.com/prio12/blog_wave_server)
+---
 
-- **Expressive Blogging:** Share thoughts, ideas, and experiences effortlessly.
-- **User-Friendly Editing:** Easily edit published blogs on the go.
-- **Engaging Community:** Connect, follow, and receive real-time notifications for meaningful interactions.
-- **Behind the Scenes:** React JS, MongoDB, Express JS, Node JS, Tailwind CSS were used, spiced up with Redux Thunk for a smooth experience.
+## 📊 GitHub Activity
 
-## Career Edge - Online Job Platform (Team Project)
-[Live Link](https://endgame-jobstack.web.app/) | [Client Side](https://github.com/mdelwarhossain/endgame-jobstack-client) | [Server Side](https://github.com/mdelwarhossain/endgame-jobstack-server)
+<div align="center">
 
+![Maksudur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prio12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9)
 
-- **A MERN stack-based web platform:** Connects job seekers and employers.
-- **Core Features:** Real-time chatting, friend requests, and skill listings for user profiles.
-- **Authentication:** Implemented a RESTful API and integrated authentication with Firebase.
-- **Hosting:** Designed and deployed the application using Firebase for front-end hosting and Vercel for back-end hosting.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prio12&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
 
-## Kena Becha - A Resale Market for Used Phones
-[Live Link](https://resale-f5fa5.web.app/) | [Client Side](https://github.com/prio12/resale-market-client-side) | [Server Side](https://github.com/prio12/resale-market-server-side)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prio12&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9)
 
-- **High-Quality Resale Marketplace:** Kena Becha is a high-quality online resale marketplace for used phones.
-- **User-Friendly Interface:** For both buyers and sellers, with a secure payment system.
-- **Efficient Search Function:** Helps buyers find the phone they need.
-- **Technologies Used:** HTML, CSS, DaisyUI, JS, React, Node JS, and MongoDB.
+</div>
 
+---
 
+## 🎯 What I Bring to the Table
+```
+✅ End-to-end ownership (database → deployment)
+✅ Real-time systems expertise (Socket.io, WebSockets)
+✅ Scalable architecture & clean code practices
+✅ Problem-solving mindset & debugging skills
+✅ Self-driven learner (all projects built independently)
+```
 
-## GitHub Stats 📊
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prio12&theme=radical)](https://git.io/streak-stats)
+## 📫 Let's Connect
 
+💼 **Currently available for:** Full-time positions & freelance projects  
+📧 **Email:** [maksudurrahmanprio@gmail.com](mailto:maksudurrahmanprio@gmail.com)  
+🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)  
+💼 **LinkedIn:** [linkedin.com/in/mrp-dev](https://www.linkedin.com/in/mrp-dev/)
 
-## Let's Connect 🌐
+---
 
-- [LinkedIn](https://www.linkedin.com/in/maksudur-rahman-full-stack-developer/)
-- [Portfolio](https://portfolio-df5c5.web.app/)
-- [Facebook](https://www.facebook.com/maksudurrahman.prio.5/)
+<div align="center">
 
-## Let's Collaborate 🚀
+### 💡 "I don't just write code—I build solutions."
 
-If you have an interesting project or just want to connect, feel free to reach out!
+⭐ **If you like my work, consider starring my repositories!**
 
-📧 Email: maksudurprio.mp@gmail.com
-
+</div>

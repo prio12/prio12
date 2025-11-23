@@ -34,25 +34,26 @@ I specialize in building **scalable, real-time web applications** from scratch. 
 
 ## 💼 Featured Projects
 
-### 🔥 [Chatterly](https://github.com/prio12/Chatterly_Client) - Real-Time Messaging Platform
-> **Solo Full-Stack Project** | Real-time chat application with WebSocket architecture
+### 🔥 [Chatterly](https://github.com/prio12/Chatterly_Client) - Real-Time Social Media Platform
+> **Solo Full-Stack Project** | Social media platform with real-time messaging, stories, feed, friend system, and notifications
 
 **The Challenge:**  
-Most messaging platforms suffer from latency and poor real-time feedback, hurting user engagement.
+Most social platforms struggle to synchronize messaging, stories, feed updates, and notifications in real-time, causing delays and inconsistent user experience.
 
 **My Solution:**  
-Built a production-ready chat system with Socket.io, implementing typing indicators, online presence, and instant notifications with sub-second message delivery.
+Built a production-ready real-time social media platform with Socket.io-powered WebSocket architecture, implementing instant messaging with typing indicators and read receipts, Instagram-style stories, a social feed with live updates, friend system with discovery & requests, and a comprehensive notification system across posts, comments, likes, messages, and friend requests.
 
 **Key Technical Achievements:**
-- ⚡ Mastered WebSocket architecture (handshake protocols, bidirectional communication)
-- 📦 Implemented scalable server-side code with modular design patterns
-- 🎥 Integrated Cloudinary with optimized video/image compression pipeline
-- 🐛 Debugged complex real-time synchronization across concurrent connections
+- ⚡ Architected a multi-channel WebSocket system handling messaging, notifications, feed updates, and online status concurrently
+- 📦 Implemented modular Express.js MVC server architecture for scalable real-time features
+- 🎥 Integrated Cloudinary media pipeline with 60% file size reduction while retaining quality
+- 🐛 Ensured sub-second synchronization and accurate presence tracking across all concurrent connections
 
 **Tech Stack:**  
 `React` `Redux Toolkit` `Node.js` `Express` `Socket.io` `MongoDB` `Cloudinary` `JWT`
 
 🔗 **[Live Demo](https://chatterly-ddcd5.web.app/)** | 💻 **[Frontend](https://github.com/prio12/Chatterly_Client)** • **[Backend](https://github.com/prio12/chatterly_server)**
+
 
 ---
 

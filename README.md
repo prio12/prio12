@@ -81,27 +81,6 @@ Designed and built a production-ready real-time social media platform using a We
 
 ---
 
-### 📝 [BlogWave](https://github.com/prio12/BlogWave) - Full-Stack Blogging Platform
-> **Solo Full-Stack Project** | Content management system with rich text editing
-
-**The Challenge:**  
-Writers lack a distraction-free platform with community-focused engagement.
-
-**My Solution:**  
-Developed an end-to-end blogging platform with rich text editor, personalized feeds, follow system, and smooth CRUD operations — all with Redux state management.
-
-**Key Technical Achievements:**
-- ✍️ Integrated rich text editor with custom formatting controls
-- 🔄 Implemented Redux Toolkit for centralized state management
-- 🎨 Designed professional UI/UX focused on readability
-- 📡 Built scalable REST API with Express and MongoDB
-
-**Tech Stack:**  
-`React` `Redux` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
-🔗 **[Live Demo](https://blog-wave-3c534.web.app/)** | 💻 **[Frontend](https://github.com/prio12/BlogWave)** • **[Backend](https://github.com/prio12/blog_wave_server)**
-
----
 
 ## 🛠️ Tech Stack
 

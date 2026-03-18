@@ -34,6 +34,25 @@ I specialize in building **scalable, real-time web applications** from scratch. 
 
 ## 💼 Featured Projects
 
+### 🎯 [ClarityAI](https://github.com/prio12/ClarityAI) - AI-Powered Resume Intelligence Platform
+> **Solo Full-Stack Project** | AI resume analyzer with job application tracking
+**The Challenge:**  
+Job seekers apply blindly without knowing how well their resume matches a job description, losing opportunities to ATS filters before a human even reads their application.
+**My Solution:**  
+Built a full SaaS platform that analyzes resumes against job descriptions using Gemini AI, delivering match scores, ATS keyword analysis, gap identification, tailored cover letters, and an integrated job application tracker.
+**Key Technical Achievements:**
+- 🤖 Integrated Google Gemini AI for structured resume analysis with JSON response parsing
+- 🔐 Implemented full authentication system with email verification, Google & GitHub OAuth
+- 🗄️ Designed PostgreSQL schema with Row Level Security ensuring complete data isolation
+- ⚡ Optimized performance using Next.js server components to minimize client-side JavaScript
+- 📄 Built client-side PDF text extraction using pdfjs-dist without any file storage
+- 🛡️ Secured AI API key by routing all Gemini calls through server-side API routes
+**Tech Stack:**  
+`Next.js 15` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Gemini AI` `shadcn/ui`
+🔗 **[Live Demo](https://getclarityai.vercel.app)** | 💻 **[Repository](https://github.com/prio12/ClarityAI)**
+
+---
+
 ### 🔥 [Chatterly](https://github.com/prio12/Chatterly_Client) - Real-Time Social Media Platform
 > **Solo Full-Stack Project** | TypeScript-enabled social platform with real-time messaging, stories, feed, friend system & live notifications
 
@@ -58,27 +77,6 @@ Designed and built a production-ready real-time social media platform using a We
 
 ---
 
-### 📝 [BlogWave](https://github.com/prio12/BlogWave) - Full-Stack Blogging Platform
-> **Solo Full-Stack Project** | Content management system with rich text editing
-
-**The Challenge:**  
-Writers lack a distraction-free platform with community-focused engagement.
-
-**My Solution:**  
-Developed an end-to-end blogging platform with rich text editor, personalized feeds, follow system, and smooth CRUD operations—all with Redux state management.
-
-**Key Technical Achievements:**
-- ✍️ Integrated rich text editor with custom formatting controls
-- 🔄 Implemented Redux Toolkit for centralized state management
-- 🎨 Designed professional UI/UX focused on readability
-- 📡 Built scalable REST API with Express and MongoDB
-
-**Tech Stack:**  
-`React` `Redux` `Node.js` `Express` `MongoDB` `Tailwind CSS` 
-
-🔗 **[Live Demo](https://blog-wave-3c534.web.app/)** | 💻 **[Frontend](https://github.com/prio12/BlogWave)** • **[Backend](https://github.com/prio12/blog_wave_server)**
-
----
 
 ## 🛠️ Tech Stack
 
